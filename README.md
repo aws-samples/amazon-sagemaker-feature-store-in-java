@@ -105,7 +105,3 @@ _**AWS SageMaker Feature Store SDK for Python documentation ([Doc](https://sagem
 	- printMetrics
 	- getLatencies
 	- getTotalTime
-
-- tpsTest class
-	- TPSTest
-	- printBenchMarkResults
