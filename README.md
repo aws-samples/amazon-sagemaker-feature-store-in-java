@@ -5,14 +5,13 @@
 This example has been tested on a SageMaker Notebook Instance
 
 1. ```git clone ```
-2. Execute the notebook - sagemaker_featurestore_fraud_detection_python_sdk - this sets up the feature store and feature groups
-3. Install maven using the below commands in a new terminal
+2. Install maven using the below commands in a new terminal
 	- ``` cd /opt```
 	- ``` sudo  wget https://apache.osuosl.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz ```
 	- ``` sudo tar xzvf apache-maven-3.6.3-bin.tar.gz ```
 	- ``` export PATH=/opt/apache-maven-3.6.3/bin:$PATH ```
-4. Back in the cloned folder, run command ```git fetch --all```
-5. ```git checkout main```
+3. Back in the cloned folder, run command ```git fetch --all```
+4. ```git checkout main```
 5. ```cd Java```
 6. ```mvn compile; mvn exec:java -Dexec.mainClass="com.example.sage.FeatureStoreAPIExample"```
 
