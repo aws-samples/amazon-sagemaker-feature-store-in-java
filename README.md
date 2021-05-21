@@ -35,8 +35,6 @@ _**AWS SageMaker SDK for Java documentation ([Doc](https://docs.aws.amazon.com/A
 
 _**AWS SageMaker Feature Store SDK for Python documentation ([Doc](https://sagemaker.readthedocs.io/en/stable/api/prep_data/feature_store.html#feature-group))**_
 
-<br>
-
 ## FeatureStoreAPIExample Code flow:
 
 1. Read and infer csv data
