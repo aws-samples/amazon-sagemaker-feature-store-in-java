@@ -1,5 +1,7 @@
 # Java SDK Examples for SageMaker Feature Store
 
+Associated Blog : https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-feature-store-in-a-java-environment/
+
 ## Execution Steps
 
 This example has been tested on a SageMaker Notebook Instance
