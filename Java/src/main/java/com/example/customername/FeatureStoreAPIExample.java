@@ -8,7 +8,7 @@
 // DeleteRecordRequest
 // Check Offline Storage
 
-// This snippet demonstrates the process of  ingesting data into SageMaker Feature Group through looping put_record api call in single thread.
+// This snippet also demonstrates the process of ingesting data into SageMaker Feature Group through put_record api call with multi-threaded batch ingestion algorithm.
 
 
 package com.example.customername;

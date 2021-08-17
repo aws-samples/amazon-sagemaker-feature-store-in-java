@@ -6,7 +6,7 @@ Associated Blog : https://aws.amazon.com/blogs/machine-learning/use-amazon-sagem
 
 This example has been tested on a SageMaker Notebook Instance
 
-1. ```git clone ```
+1. ```git clone https://github.com/aws-samples/amazon-sagemaker-feature-store-in-java.git```
 2. Install maven using the below commands in a new terminal
 	- ``` cd /opt```
 	- ``` sudo  wget https://apache.osuosl.org/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.tar.gz ```
